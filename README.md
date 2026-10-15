@@ -5,7 +5,7 @@ A Jupyter notebook that performs a thorough exploratory data analysis (EDA) on t
 ## Dataset
 
 - **Source:** [Kaggle: FIFA 2021 Complete Player Data](https://www.kaggle.com/aayushmishra1512/fifa-2021-complete-player-data)
-- **File:** `FIFA-21_Complete.csv` (semicolon-separated)
+- **File:** `FIFA-21_Complete.csv` 
 - **Size:** 17,981 rows, 9 columns
 
 | Column | Type | Description |
