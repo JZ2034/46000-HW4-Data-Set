@@ -10,7 +10,7 @@ A Jupyter notebook that performs a thorough exploratory data analysis (EDA) on t
 
 | Column | Type | Description |
 |---|---|---|
-| `player_id` | numerical | Unique player ID (excluded from analysis) |
+| `player_id` | identifier | Unique player ID (excluded from analysis) |
 | `name` | identifier | Player name (excluded from analysis) |
 | `nationality` | categorical | Player's country |
 | `position` | categorical | Positions the player can play, separated by `\|` |
